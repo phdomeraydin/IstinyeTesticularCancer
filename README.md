@@ -28,6 +28,6 @@ Run [`Figure1.py`](Figure1.py) to generate the study workflow diagram and [`Figu
 
 ## Citation and contact
 
-If you use this code, please cite the accompanying article by Omer Aydin, Fatih Safa Erenay, Aybeyan Selim, Levent Korkmaz, Huseyin Kusetogullari, Ferhat Ozgur Catak, and Umit Cali. Use the final publication details when available.
+If you use this code, please cite the accompanying article by Omer Aydin, Fatih Safa Erenay, Aybeyan Selim, Levent Korkmaz, Huseyin Kusetogullari, and Umit Cali. Use the final publication details when available.
 
 Corresponding author: Umit Cali ([umit.cali@ntnu.no](mailto:umit.cali@ntnu.no)).

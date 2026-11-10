@@ -1,4 +1,4 @@
-# Istinye Testicular Cancer Forecasting Study
+# Forecasting Annual Hospital-Observed Testicular Cancer Patient Counts Using Multicenter Real-World Data
 
 This repository contains the Python analysis code for *Forecasting Annual Hospital-Observed Testicular Cancer Patient Counts Using Multicenter Real-World Data*.
 
